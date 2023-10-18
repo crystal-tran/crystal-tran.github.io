@@ -1,0 +1,139 @@
+
+/*
+  ========================================
+  Home
+  ========================================
+*/
+.profile-image {
+  height: 70%;
+  width: 70%;
+
+}
+.row{
+  height: 600px;
+}
+
+
+div .firstName,
+.heading {
+  color:#aabdff;
+  line-height: 1.5em;
+}
+
+div .occupation,
+.text-color {
+  color: #8c52ff;
+}
+
+/*
+  ========================================
+  Typography
+  ========================================
+*/
+
+.navbar-text,
+h5,
+h2,
+h1,
+p {
+  font-family: 'Roboto Mono', monospace;
+}
+body {
+  color: rgb(40, 37, 37);
+}
+
+body h2 {
+  font-size: 30px;
+}
+body h1 {
+  font-size: 50px;
+  line-height: 1.2em;
+}
+
+.firstName {
+  font-weight: bold;
+}
+
+body p {
+  font-size: 20px;
+}
+
+.text p {
+  font-size: 15px;
+}
+
+/*
+  ========================================
+  Navigation
+  ========================================
+*/
+.navbar-brand {
+  padding-left: 10px !important;
+}
+.navbar-custom {
+  background-color:#aabdff;
+}
+
+.navbar-text,
+.navbar-brand,
+.nav-link {
+  color: white !important;
+}
+
+header a:hover {
+  color: #8c52ff !important;
+
+}
+
+
+/*
+  ========================================
+  About Me
+  ========================================
+*/
+
+.carousel-caption {
+  border-radius: 5px;
+  color: #fff;
+  background-color: rgba(170,189,255, .7);
+}
+
+.carousel-caption h5,
+.carousel-caption p {
+  font-size: 15px;
+}
+
+.btn:hover {
+  background-color:#8c52ff !important;
+}
+
+.btn span{
+  text-decoration: none !important;
+}
+
+/*
+  ========================================
+  Connect
+  ========================================
+*/
+
+.button-position{
+  text-align: center;
+}
+
+.social-container a {
+  text-decoration: none;
+}
+
+.social-icon {
+  padding: 0 1em 0 1em;
+  color: #aabdff;
+}
+
+.social-icon:hover {
+  color:#8c52ff !important;
+}
+
+.carousel-item .carousel-caption {
+  position: absolute !important;
+}
